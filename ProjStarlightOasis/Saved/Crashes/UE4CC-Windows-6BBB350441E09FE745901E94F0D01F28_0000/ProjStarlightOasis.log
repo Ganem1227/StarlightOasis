@@ -1,0 +1,802 @@
+﻿Log file open, 01/09/19 23:03:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjStarlightOasis
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270104
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.077s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Engine.ini]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Engine.ini]
+[2019.01.10-07.03.34:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Engine.ini]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Engine.ini]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.10-07.03.34:432][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.10-07.03.34:433][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.10-07.03.34:433][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.10-07.03.34:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Engine.ini]
+[2019.01.10-07.03.34:433][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Engine.ini]
+[2019.01.10-07.03.34:437][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.10-07.03.34:437][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.10-07.03.34:438][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.10-07.03.34:438][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-07.03.34:438][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.10-07.03.34:451][  0]LogHAL: Display: Platform has ~ 16 GB [17138720768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.10-07.03.34:451][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.10-07.03.34:451][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.10-07.03.34:451][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:451][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.10-07.03.34:451][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.10-07.03.34:451][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:451][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.10-07.03.34:451][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:451][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.10-07.03.34:451][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.10-07.03.34:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.10-07.03.34:452][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.10-07.03.34:453][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.10-07.03.34:453][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Config/Windows/Engine.ini]
+[2019.01.10-07.03.34:453][  0]LogInit: Computer: ATLAS
+[2019.01.10-07.03.34:453][  0]LogInit: User: AlexMao
+[2019.01.10-07.03.34:453][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.10-07.03.34:453][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2019.01.10-07.03.34:453][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.10-07.03.34:453][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.10-07.03.34:453][  0]LogMemory: Process Physical Memory: 102.73 MB used, 102.73 MB peak
+[2019.01.10-07.03.34:453][  0]LogMemory: Process Virtual Memory: 89.84 MB used, 89.84 MB peak
+[2019.01.10-07.03.34:453][  0]LogMemory: Physical Memory: 8398.89 MB used,  7945.87 MB free, 16344.76 MB total
+[2019.01.10-07.03.34:453][  0]LogMemory: Virtual Memory: 4646.23 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.10-07.03.34:473][  0]LogInit: Using OS detected language (en-US).
+[2019.01.10-07.03.34:473][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.10-07.03.34:473][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.10-07.03.34:861][  0]LogStreaming: Display: Took  0.388s to InitEngineTextLocalization.
+[2019.01.10-07.03.34:861][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.10-07.03.34:891][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.10-07.03.34:891][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.10-07.03.35:064][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-07.03.35:064][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.10-07.03.35:122][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2019.01.10-07.03.35:123][  0]LogD3D11RHI:       8080/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.10-07.03.35:124][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.10-07.03.35:124][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.10-07.03.35:124][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.10-07.03.35:131][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.10-07.03.35:131][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.10-07.03.35:131][  0]LogWindows: EnumDisplayDevices:
+[2019.01.10-07.03.35:131][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2019.01.10-07.03.35:132][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.01.10-07.03.35:132][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.01.10-07.03.35:132][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.01.10-07.03.35:132][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.10-07.03.35:132][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2019.01.10-07.03.35:132][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.01.10-07.03.35:132][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.01.10-07.03.35:132][  0]LogRHI: Texture pool is 5656 MB (70% of 8080 MB)
+[2019.01.10-07.03.35:166][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.10-07.03.35:205][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.10-07.03.35:534][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.10-07.03.35:546][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.10-07.03.35:559][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.10-07.03.35:571][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.10-07.03.35:583][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.10-07.03.35:596][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.10-07.03.35:609][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.10-07.03.35:622][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.10-07.03.35:628][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-07.03.35:699][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.10-07.03.35:757][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-07.03.35:757][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-07.03.35:779][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-07.03.35:779][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-07.03.35:790][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.10-07.03.35:803][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.10-07.03.35:818][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.10-07.03.35:832][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.10-07.03.35:876][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.10-07.03.35:876][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.10-07.03.35:876][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.10-07.03.35:929][  0]LogShaderCompilers: Guid format shader working directory is -73 characters bigger than the processId version (../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Intermediate/Shaders/WorkingDirectory/18740/).
+[2019.01.10-07.03.35:929][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'c:/Temp/UnrealShaderWorkingDir/C3CF8E514396511119AE25BB56AE2EAA/'.
+[2019.01.10-07.03.35:931][  0]LogXGEController: Cleaning working directory: c:/Temp/UnrealXGEWorkingDir/
+[2019.01.10-07.03.35:931][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.10-07.03.35:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.10-07.03.35:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.10-07.03.36:441][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.10-07.03.36:503][  0]LogDerivedDataCache: Loaded boot cache 0.06s 86MB C:/Users/Alex Mao/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.10-07.03.36:503][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alex Mao/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.10-07.03.36:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.10-07.03.36:503][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.10-07.03.36:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.10-07.03.36:503][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.10-07.03.36:516][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.10-07.03.36:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.10-07.03.36:516][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.10-07.03.36:528][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex Mao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.10-07.03.36:528][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.10-07.03.36:528][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.10-07.03.36:549][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.10-07.03.36:550][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.10-07.03.36:551][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.10-07.03.36:635][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2019.01.10-07.03.36:940][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-07.03.37:076][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.10-07.03.37:079][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.10-07.03.37:079][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.10-07.03.37:079][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.10-07.03.37:079][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.10-07.03.37:090][  0]LogNetVersion: ProjStarlightOasis 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 461897118)
+[2019.01.10-07.03.37:528][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.078011 seconds
+[2019.01.10-07.03.37:532][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.10-07.03.37:532][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.10-07.03.37:532][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.10-07.03.38:287][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.01.10-07.03.38:290][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.10-07.03.38:303][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.10-07.03.38:922][  0]SourceControl: Source control is disabled
+[2019.01.10-07.03.38:923][  0]SourceControl: Source control is disabled
+[2019.01.10-07.03.38:924][  0]SourceControl: Source control is disabled
+[2019.01.10-07.03.38:924][  0]SourceControl: Source control is disabled
+[2019.01.10-07.03.39:070][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.10-07.03.39:144][  0]LogOcInput: OculusInput pre-init called
+[2019.01.10-07.03.39:343][  0]LogEngine: Initializing Engine...
+[2019.01.10-07.03.39:343][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-07.03.39:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-07.03.39:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-07.03.39:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-07.03.39:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-07.03.39:561][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.10-07.03.39:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.10-07.03.39:625][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-07.03.39:669][  0]LogInit: FAudioDevice initialized.
+[2019.01.10-07.03.39:670][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.10-07.03.39:744][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Alex Mao/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.10-07.03.39:754][  0]LogInit: Texture streaming: Enabled
+[2019.01.10-07.03.39:769][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.10-07.03.39:780][  0]LogInit: Transaction tracking system initialized
+[2019.01.10-07.03.39:800][  0]BlueprintLog: New page: Editor Load
+[2019.01.10-07.03.39:861][  0]LocalizationService: Localization service is disabled
+[2019.01.10-07.03.40:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/' took 0.01s
+[2019.01.10-07.03.40:263][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.10-07.03.40:263][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.10-07.03.40:263][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.10-07.03.40:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-07.03.40:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-07.03.40:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-07.03.40:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-07.03.40:376][  0]SourceControl: Source control is disabled
+[2019.01.10-07.03.40:376][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.10-07.03.40:376][  0]LightingResults: New page: Lighting Build
+[2019.01.10-07.03.40:378][  0]MapCheck: New page: Map Check
+[2019.01.10-07.03.40:378][  0]LightingResults: New page: Lighting Build
+[2019.01.10-07.03.40:514][  0]LogAIModule: Creating AISystem for world TestMap
+[2019.01.10-07.03.40:518][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.10-07.03.40:541][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.10-07.03.40:541][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2019.01.10-07.03.40:542][  0]LogFileHelpers: Loading map 'TestMap' took 0.165
+[2019.01.10-07.03.40:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-07.03.40:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-07.03.40:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-07.03.40:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-07.03.40:649][  0]LogCollectionManager: Loaded 0 collections in 0.001479 seconds
+[2019.01.10-07.03.40:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Collections/' took 0.01s
+[2019.01.10-07.03.40:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/Developers/AlexMao/Collections/' took 0.00s
+[2019.01.10-07.03.40:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/Collections/' took 0.00s
+[2019.01.10-07.03.40:663][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.10-07.03.40:671][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2665 classes and 626 folders.
+[2019.01.10-07.03.40:676][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.10-07.03.40:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-07.03.40:717][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.10-07.03.40:721][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.10-07.03.40:772][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.10-07.03.40:774][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.10-07.03.40:779][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.10-07.03.40:850][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.10-07.03.40:965][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.10-07.03.40:965][  0]LogLoad: (Engine Initialization) Total time: 8.13 seconds
+[2019.01.10-07.03.40:965][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.10-07.03.41:036][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.10-07.03.41:053][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.01.10-07.03.41:070][  1]LogAssetRegistry: Asset discovery search completed in 4.4581 seconds
+[2019.01.10-07.03.41:072][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.10-07.03.41:072][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.01.10-07.03.45:086][ 13]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.10-07.04.12:595][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-07.04.16:283][ 17]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.10-07.04.16:290][ 17]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameObjects/Planets/GenericPlanet.GenericPlanet
+[2019.01.10-07.04.16:678][ 17]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.01.10-07.04.17:374][ 17]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.10-07.04.40:046][653]LogRenderer: Reallocating scene render targets to support 1288x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.10-07.04.43:575][993]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.10-07.04.43:748][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-07.05.36:600][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-07.05.36:685][ 60]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-07.05.37:293][102]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanetE72587C2448D4D072FC98A8C6D9E5543.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-07.05.45:242][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-07.06.10:192][862]LogSlate: Took 0.005228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.10-07.13.41:316][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.025
+[2019.01.10-07.13.41:325][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameObjects/Planets/GenericPlanet] ([1] browsable assets)...
+[2019.01.10-07.13.41:345][390]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameObjects/Planets/GenericPlanet.GenericPlanet]
+[2019.01.10-07.13.41:345][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/Planets/GenericPlanet]
+[2019.01.10-07.13.41:372][390]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet_Auto1BF1BDE184C4A1E5665C9F8A06C6C57FB.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Autosaves/Game/GameObjects/Planets/GenericPlanet_Auto1.uasset'
+[2019.01.10-07.13.41:373][390]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.01.10-07.45.14:272][371]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-07.45.16:847][648]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanetB17432EE4FD2BEB762C5E3AA07247D81.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-07.48.37:855][846]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.029
+[2019.01.10-07.48.37:857][846]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameObjects/Planets/GenericPlanet] ([1] browsable assets)...
+[2019.01.10-07.48.37:869][846]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameObjects/Planets/GenericPlanet.GenericPlanet]
+[2019.01.10-07.48.37:869][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/Planets/GenericPlanet]
+[2019.01.10-07.48.37:894][846]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet_Auto2C29B5CB1419B2EF2E97D7AAEBBB85D1C.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Autosaves/Game/GameObjects/Planets/GenericPlanet_Auto2.uasset'
+[2019.01.10-07.48.37:895][846]LogFileHelpers: Auto-saving content packages took 0.039
+[2019.01.10-07.50.04:385][461]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.10-07.50.21:433][487]LogMetaData: Removing '/Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameObjects/GravityActors/GravityActors.PackageMetaData'
+[2019.01.10-07.50.21:433][487]LogMetaData: Removing '/Game/GameObjects/GravityActors/GenericGravityActor.SKEL_GenericGravityActor_C' ref from Metadata '/Game/GameObjects/GravityActors/GravityActors.PackageMetaData'
+[2019.01.10-07.50.21:433][487]LogMetaData: Removing '/Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor_C' ref from Metadata '/Game/GameObjects/GravityActors/GravityActors.PackageMetaData'
+[2019.01.10-07.50.21:433][487]LogMetaData: Removing '/Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameObjects/GravityActors/GravityActors.PackageMetaData'
+[2019.01.10-07.50.21:433][487]LogMetaData: Removing '/Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameObjects/GravityActors/GravityActors.PackageMetaData'
+[2019.01.10-07.50.21:433][487]LogMetaData: Removing '/Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GameObjects/GravityActors/GravityActors.PackageMetaData'
+[2019.01.10-07.50.21:465][487]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor7B9BA3A44EFE0C1BEC7402AA63B93745.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/GravityActors/GenericGravityActor.uasset'
+[2019.01.10-07.50.39:213][589]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor
+[2019.01.10-07.50.49:825][712]BlueprintLog: New page: Compile GenericGravityActor
+[2019.01.10-07.51.12:259][280]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.10-07.54.09:559][302]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-07.54.10:476][386]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet9CA80ADE464C5F1DC74F60A740A5AC92.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-07.57.49:630][789]BlueprintLog: New page: Compile GenericGravityActor
+[2019.01.10-07.57.50:218][829]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor93CDBED747E8D835EE72119479AA2258.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/GravityActors/GenericGravityActor.uasset'
+[2019.01.10-07.58.37:912][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.027
+[2019.01.10-07.58.37:913][376]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameObjects/Planets/GenericPlanet] ([1] browsable assets)...
+[2019.01.10-07.58.37:924][376]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameObjects/Planets/GenericPlanet.GenericPlanet]
+[2019.01.10-07.58.37:924][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/Planets/GenericPlanet]
+[2019.01.10-07.58.37:946][376]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet_Auto3885232C74C4D31E3F8278F8C642DCAC1.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Autosaves/Game/GameObjects/Planets/GenericPlanet_Auto3.uasset'
+[2019.01.10-07.58.37:948][376]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameObjects/GravityActors/GenericGravityActor] ([1] browsable assets)...
+[2019.01.10-07.58.37:960][376]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor]
+[2019.01.10-07.58.37:961][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/GravityActors/GenericGravityActor]
+[2019.01.10-07.58.37:982][376]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor_Auto3DEB24A1F4797B0421B9E8B8A4D2EF57E.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Autosaves/Game/GameObjects/GravityActors/GenericGravityActor_Auto3.uasset'
+[2019.01.10-07.58.37:983][376]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.01.10-07.59.55:234][642]BlueprintLog: New page: Compile GenericGravityActor
+[2019.01.10-07.59.55:868][689]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor14A4423D415D66B3A9EAC0A54CB1AF82.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/GravityActors/GenericGravityActor.uasset'
+[2019.01.10-08.01.23:251][785]BlueprintLog: New page: Compile GenericGravityActor
+[2019.01.10-08.01.27:335][228]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-08.01.46:288][433]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-08.01.46:940][485]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet51ABFFCA46872D988AC7D48C34EB0CF6.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-08.01.48:697][685]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor1BABFC67461990233C419293026D9304.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/GravityActors/GenericGravityActor.uasset'
+[2019.01.10-08.08.37:905][ 21]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.032
+[2019.01.10-08.08.37:906][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameObjects/GravityActors/GenericGravityActor] ([1] browsable assets)...
+[2019.01.10-08.08.37:917][ 21]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameObjects/GravityActors/GenericGravityActor.GenericGravityActor]
+[2019.01.10-08.08.37:917][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/GravityActors/GenericGravityActor]
+[2019.01.10-08.08.37:946][ 21]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor_Auto4360747E3436623EB0A2B0AA9EF4D800A.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/Autosaves/Game/GameObjects/GravityActors/GenericGravityActor_Auto4.uasset'
+[2019.01.10-08.08.37:947][ 21]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.01.10-08.12.36:062][616]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-08.12.36:560][648]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanetB55B62C94DEDEA042F0BA0978BC2B804.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-08.12.41:525][219]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-08.12.41:956][243]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet9D3F97AE47C31FF5DD3CF3AD869DE0D3.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-08.19.11:194][558]BlueprintLog: New page: Compile GenericGravityActor
+[2019.01.10-08.21.00:413][105]BlueprintLog: New page: Compile GenericGravityActor
+[2019.01.10-08.21.01:017][146]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor6BDC0CB44D49B06BEABBC49C4208E93A.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/GravityActors/GenericGravityActor.uasset'
+[2019.01.10-08.21.04:344][515]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanetBDB5A01247355F825D1A0BA7042BB0E0.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-08.21.12:197][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.01.10-08.21.13:058][529]Cmd: DELETE
+[2019.01.10-08.21.13:058][529]Cmd: ACTOR DELETE
+[2019.01.10-08.21.13:071][529]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.10-08.21.13:101][529]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.01.10-08.21.14:746][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.21.20:045][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.21.42:227][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-08.21.43:427][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.21.43:427][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-08.21.43:428][118]PIE: New page: SIE session: TestMap (Jan 9, 2019, 4:21:43 PM)
+[2019.01.10-08.21.43:441][118]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.01.10-08.21.43:443][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001791s)
+[2019.01.10-08.21.43:443][118]LogAIModule: Creating AISystem for world TestMap
+[2019.01.10-08.21.43:444][118]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2019.01.10-08.21.43:444][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.002791s)
+[2019.01.10-08.21.43:492][118]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-08.21.43:530][118]LogInit: FAudioDevice initialized.
+[2019.01.10-08.21.43:531][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-08.21.43:598][118]LogLoad: Game class is 'BaseGamemode_C'
+[2019.01.10-08.21.43:601][118]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.10-00.21.43
+[2019.01.10-08.21.43:602][118]LogWorld: Bringing up level for play took: 0.001202
+[2019.01.10-08.21.43:614][118]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.10-08.21.43:625][118]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.01.10-08.21.43:625][118]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.945
+[2019.01.10-08.21.43:657][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.21.46:892][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.21.47:002][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.21.47:002][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.21.47:040][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-08.21.47:040][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.21.47:068][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.21.47:106][507]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.10-08.21.53:835][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.22.21:012][323]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.10-08.23.31:945][358]BlueprintLog: New page: Compile GenericGravityActor
+[2019.01.10-08.23.32:545][394]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActorA7C385564AFB666697562B8A56A0196F.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/GravityActors/GenericGravityActor.uasset'
+[2019.01.10-08.23.36:985][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.23.38:269][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.23.38:351][ 42]LogTemp: Repeating last play command: Simulate
+[2019.01.10-08.23.38:371][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.23.38:371][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-08.23.38:371][ 42]PIE: New page: SIE session: TestMap (Jan 9, 2019, 4:23:38 PM)
+[2019.01.10-08.23.38:371][ 42]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.01.10-08.23.38:373][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001422s)
+[2019.01.10-08.23.38:373][ 42]LogAIModule: Creating AISystem for world TestMap
+[2019.01.10-08.23.38:373][ 42]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2019.01.10-08.23.38:373][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001990s)
+[2019.01.10-08.23.38:420][ 42]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-08.23.38:457][ 42]LogInit: FAudioDevice initialized.
+[2019.01.10-08.23.38:487][ 42]LogLoad: Game class is 'BaseGamemode_C'
+[2019.01.10-08.23.38:488][ 42]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.10-00.23.38
+[2019.01.10-08.23.38:488][ 42]LogWorld: Bringing up level for play took: 0.000556
+[2019.01.10-08.23.38:500][ 42]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.10-08.23.38:500][ 42]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.18
+[2019.01.10-08.23.38:503][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.23.40:347][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.23.40:431][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.23.40:431][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.23.40:467][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-08.23.40:467][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.23.40:497][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.23.40:534][261]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.10-08.23.45:146][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-08.23.46:540][916]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericGravityActor306F722549BB4CE8FA02BD94172CBB24.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/GravityActors/GenericGravityActor.uasset'
+[2019.01.10-08.23.47:107][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.23.47:929][ 68]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet8A06D97A4E421761BDF5679D46AA17FD.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-08.23.49:673][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.24.09:083][472]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-08.24.09:643][507]LogSavePackage: Moving '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Saved/GenericPlanet69DDE2DD4DE25A1B55BB79951E92511A.tmp' to '../../../../../../Users/Alex Mao/Documents/Unreal Projects/StarlightOasis/ProjStarlightOasis/Content/GameObjects/Planets/GenericPlanet.uasset'
+[2019.01.10-08.24.10:646][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.24.11:793][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.24.11:875][764]LogTemp: Repeating last play command: Simulate
+[2019.01.10-08.24.11:891][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.11:891][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-08.24.11:891][764]PIE: New page: SIE session: TestMap (Jan 9, 2019, 4:24:11 PM)
+[2019.01.10-08.24.11:891][764]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.01.10-08.24.11:893][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001355s)
+[2019.01.10-08.24.11:893][764]LogAIModule: Creating AISystem for world TestMap
+[2019.01.10-08.24.11:893][764]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.01.10-08.24.11:893][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001890s)
+[2019.01.10-08.24.11:935][764]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-08.24.11:971][764]LogInit: FAudioDevice initialized.
+[2019.01.10-08.24.12:005][764]LogLoad: Game class is 'BaseGamemode_C'
+[2019.01.10-08.24.12:006][764]PIE: Warning: Invalid Simulate Options: Body (GenericPlanet_2.GravityCollider) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.10-08.24.12:006][764]PIE: Warning: Invalid Simulate Options: Body (GenericPlanet_2.GravityCollider) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.10-08.24.12:006][764]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.10-00.24.12
+[2019.01.10-08.24.12:006][764]LogWorld: Bringing up level for play took: 0.000905
+[2019.01.10-08.24.12:018][764]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.10-08.24.12:019][764]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.662
+[2019.01.10-08.24.12:021][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.13:548][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.13:548][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.24.13:580][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-08.24.13:580][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.13:611][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.24.13:658][949]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.10-08.24.17:167][363]LogSlate: Window 'Message Log' being destroyed
+[2019.01.10-08.24.17:171][363]LogSlate: Window 'Message Log' being destroyed
+[2019.01.10-08.24.27:428][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.24.28:597][528]BlueprintLog: New page: Compile GenericPlanet
+[2019.01.10-08.24.42:570][881]LogEditorViewport: Clicking on Actor (context menu): GenericGravityActor_C (GenericGravityActor)
+[2019.01.10-08.24.42:614][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-08.24.46:067][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-08.24.46:594][350]LogTemp: Repeating last play command: Simulate
+[2019.01.10-08.24.46:612][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.46:612][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-08.24.46:612][350]PIE: New page: SIE session: TestMap (Jan 9, 2019, 4:24:46 PM)
+[2019.01.10-08.24.46:612][350]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2019.01.10-08.24.46:613][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001367s)
+[2019.01.10-08.24.46:614][350]LogAIModule: Creating AISystem for world TestMap
+[2019.01.10-08.24.46:614][350]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2019.01.10-08.24.46:614][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.001934s)
+[2019.01.10-08.24.46:656][350]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-08.24.46:694][350]LogInit: FAudioDevice initialized.
+[2019.01.10-08.24.46:725][350]LogLoad: Game class is 'BaseGamemode_C'
+[2019.01.10-08.24.46:726][350]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.10-00.24.46
+[2019.01.10-08.24.46:726][350]LogWorld: Bringing up level for play took: 0.000613
+[2019.01.10-08.24.46:738][350]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.10-08.24.46:739][350]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.059
+[2019.01.10-08.24.46:745][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.47:540][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.47:541][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.24.47:577][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-08.24.47:578][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.10-08.24.47:608][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-08.24.47:645][449]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.10-08.24.48:924][602]LogEditorViewport: Clicking on Actor (LMB): GenericGravityActor_C (GenericGravityActor)
+[2019.01.10-08.24.55:214][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-08.25.05:556][235]LogUObjectArray: Warning: Other object in slot
+[2019.01.10-08.25.05:563][235]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.10-08.25.06:298][235]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.734 s
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: 
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: Stack: 
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff81db681d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff81db7809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff82534bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff81d03769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff81cff0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff83c9a7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff83cbf4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff83ca02d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff83c9fee18 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff83c9fe483 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff743417094 UE4Editor.exe!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff74342596c UE4Editor.exe!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff7434259ea UE4Editor.exe!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff7434348da UE4Editor.exe!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff74343659a UE4Editor.exe!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff887f93034 KERNEL32.DLL!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: [Callstack] 0x00007ff88a543691 ntdll.dll!UnknownFunction []
+[2019.01.10-08.25.06:298][235]LogOutputDevice: Error: 
+[2019.01.10-08.25.06:308][235]LogStats:                SubmitErrorReport -  0.000 s
